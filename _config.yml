@@ -1,7 +1,7 @@
 
-title: Xia Lin's Station #Your awesome title
+title: 夏霖vol's资源小站 #Your awesome title
 email: xialin.vol@aliyun.com
-description: > # this means to ignore newlines until "baseurl"
+description: 
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
@@ -18,7 +18,7 @@ google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 
 user:
-  name: 夏霖vol's资源小站
+  name: Xia Lin's Station
   pic: /assets/img/cat.jpg
   picAlt: "Xia Lin's Station"
   job: HIV感染者人手必备的资源中心！
