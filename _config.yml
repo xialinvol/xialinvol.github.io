@@ -21,7 +21,7 @@ user:
   name: Xia Lin's Station
   pic: /assets/img/cat.jpg
   picAlt: "Xia Lin's Station"
-  job: HIV感染者人手必备的资源中心！
+  job: HIV感染者的健康小栈！
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
